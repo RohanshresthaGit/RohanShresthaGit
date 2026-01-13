@@ -29,7 +29,7 @@ who enjoys building scalable and high-performance applications. I have worked on
 ---
 
 ## Connect With Me
-<p><a href="https://www.linkedin.com/in/-rohan-shrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/_rohan_shrestha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:shrestharohan495@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Email"></a> <a href="https://github.com/RohanShresthaGit" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt"=Email"></a></p>
+<p><a href="https://www.linkedin.com/in/-rohan-shrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/_rohan_shrestha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:shrestharohan495@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/RohanShresthaGit" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt"=Github"></a></p>
 
 ---
 ## 🧠 Currently
