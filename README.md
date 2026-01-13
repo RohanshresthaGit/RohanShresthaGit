@@ -7,22 +7,23 @@ who enjoys building scalable and high-performance applications. I have worked on
 ## Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-<img src="https://www.applivery.com/wp-content/uploads/2024/07/Android-Studio.png" alt="Android Studio" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
-<img src="https://tse4.mm.bing.net/th/id/OIP.-wK8kSbegCP7kdE8hVjRCQHaHk?rs=1&pid=ImgDetMain&o=7&rm=3" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://logodix.com/logo/1773564.png" alt="Ktor" width="40" height="40"/>&nbsp;
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*qxJheSwo06d1l7Yxb985_A.png" alt="BLoC" width="40" height="40"/>&nbsp;
-<img src="https://th.bing.com/th/id/R.875b2c58f7a51a01d72ffcc2ed38371e?rik=ksl24p%2byjRa4ZQ&pid=ImgRaw&r=0" alt="Riverpod" width="40" height="40"/>&nbsp;
-<img src="https://p.kindpng.com/picc/s/115-1155954_new-google-logo-transparent-google-play-logo-transparent.png" alt="Play Store" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://th.bing.com/th/id/R.6dd327badcd7fb81b64d32f00a81bb3c?rik=cFTT5OG3U2zMdQ&pid=ImgRaw&r=0" alt="Dart" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://www.applivery.com/wp-content/uploads/2024/07/Android-Studio.png" alt="Android Studio" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://tse4.mm.bing.net/th/id/OIP.-wK8kSbegCP7kdE8hVjRCQHaHk?rs=1&pid=ImgDetMain&o=7&rm=3" alt="C" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://logodix.com/logo/1773564.png" alt="Ktor" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*qxJheSwo06d1l7Yxb985_A.png" alt="BLoC" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://th.bing.com/th/id/R.875b2c58f7a51a01d72ffcc2ed38371e?rik=ksl24p%2byjRa4ZQ&pid=ImgRaw&r=0" alt="Riverpod" width="40" height="40" style="object-fit: cover;"/>&nbsp;
+  <img src="https://p.kindpng.com/picc/s/115-1155954_new-google-logo-transparent-google-play-logo-transparent.png" alt="Play Store" width="40" height="40" style="object-fit: cover;"/>
 </p>
 
 ---
