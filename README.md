@@ -1,7 +1,7 @@
-# Hello 👋, I'm Rohan Shrestha
-## A Flutter Developer
+# Hello 👋, This is Rohan Shrestha
+## Full-Stack Mobile Application Developer
 
-who enjoys building scalable and high-performance applications. I have worked on real-world projects such as ride-sharing, hospital management, ERP Systems and event management systems, and I’m deeply interested in understanding how things work under the hood. Alongside development, I actively engage with tech communities like Flutter Kathmandu, GNOME Nepal, and Code for Change, and I continuously focus on learning, problem-solving, and creating meaningful digital solutions.
+Who enjoys building scalable and high-performance applications. I have worked on real-world projects such as ride-sharing, hospital management, ERP systems, and event management systems, using Flutter (Dart) for frontend development and Ktor (Kotlin) with PostgreSQL for backend. I’m deeply interested in understanding how things work under the hood. Alongside development, I actively engage with tech communities like Flutter Kathmandu, GNOME Nepal, and Code for Change, and I continuously focus on learning, problem-solving, and creating meaningful digital solutions
 
 ---
 
