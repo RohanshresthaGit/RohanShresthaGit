@@ -4,7 +4,8 @@
 
 <h3>Flutter Developer | Full-Stack Software Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0175C2&center=true&vCenter=true&width=420&height=40&lines=Flutter+Developer;Full+Stack+Developer;Node.js+Developer;Software+Developer;Mobile+App+Developer" alt="Flutter Developer, Full Stack Developer, Node.js Developer, Software Developer, Mobile App Developer"/>
+<a href="https://rohan-shrestha.info.np">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0175C2&center=true&vCenter=true&width=420&height=40&lines=Flutter+Developer;Full+Stack+Developer;Node.js+Developer;Software+Developer;Mobile+App+Developer" alt="Flutter Developer, Full Stack Developer, Node.js Developer, Software Developer, Mobile App Developer"/></a>
 
 <p>Building production-ready mobile applications, scalable backend services, and product-focused digital experiences.</p>
 
