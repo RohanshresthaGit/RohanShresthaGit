@@ -10,7 +10,7 @@
 <p>Building production-ready mobile applications, scalable backend services, and product-focused digital experiences.</p>
 
 <p align="center">
-<a href="https://rohan-shrestha.info.np"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" height="28" alt="Website"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://rohan-shrestha.info.np"><img src="https://img.icons8.com/ios-filled/50/4285F4/globe.png" width="30" height="30" alt="Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/-rohan-shrestha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RohanShresthaGit"><img src="https://cdn.simpleicons.org/github/8B949E" width="28" height="28" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:shrestharohan495@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"/></a>
@@ -351,7 +351,7 @@ I enjoy turning ideas into reliable digital products, solving real-world problem
 
 <h2>🤝 Let's Connect</h2>
 
-<a href="https://rohan-shrestha.info.np"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" alt="Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rohan-shrestha.info.np"><img src="https://img.icons8.com/ios-filled/50/4285F4/globe.png" width="30" height="30" alt="Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/-rohan-shrestha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RohanShresthaGit"><img src="https://cdn.simpleicons.org/github/8B949E" width="30" height="30" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/_rohan_shrestha/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
